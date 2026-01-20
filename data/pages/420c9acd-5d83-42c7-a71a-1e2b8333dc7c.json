@@ -35,10 +35,10 @@
   "created_by": "absempere",
   "title": "Inside the Movies",
   "slug": "inside-the-movies",
-  "updated_at": "2026-01-20T18:38:30.378Z",
+  "updated_at": "2026-01-20T18:38:53.638Z",
   "updated_by": "absempere",
   "autogenerate": {
-    "enabled": false,
+    "enabled": true,
     "type": "event",
     "type_id": "75dd5f9d-5e37-451f-baa6-55a32f1522ad"
   }
